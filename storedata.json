@@ -1,0 +1,19 @@
+{
+    "root": [
+        {
+            "name": "张三",
+            "gender": "male",
+            "age": 23
+        },
+        {
+            "name": "李四",
+            "gender": "male",
+            "age": 18
+        },
+        {
+            "name": "王五",
+            "gender": "female",
+            "age": 24
+        }
+    ]
+}
